@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">E-Food</string>
+    <string name="full_name">Full name</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm your password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="password">Password</string>
+    <string name="phone">Phone</string>
+    <string name="heading_sign_up">Sign Up</string>
+    <string name="description_sign_up">First create your account</string>
+    <string name="confirm_sign_up">Already have an account?</string>
+    <string name="log_in">Login</string>
+</resources>
